@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./Header";
-import TicketList from "./TicketList";
+import TicketControl from "./TicketControl";
 
 function App(){
   const name = "Thato";
